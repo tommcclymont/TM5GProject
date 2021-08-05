@@ -3,12 +3,12 @@ package main
 // creates PCF server and register services
 
 import (
-	"TM5GProject/logger"
+	"github.com/tommcclymont/TM5GProject/logger"
 	"log"
 	"net/http"
 	"os"
 
-	"TM5GProject/PCF/ampolicycontrol"
+	"github.com/tommcclymont/TM5GProject/PCF/ampolicycontrol"
 
 	"github.com/gorilla/mux"
 )
