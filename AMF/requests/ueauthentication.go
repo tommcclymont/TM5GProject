@@ -3,7 +3,7 @@ package requests
 // creates authenticate ue requests
 
 import (
-	"TM5GProject/models"
+	"github.com/tommcclymont/TM5GProject/models"
 	"bytes"
 	"context"
 	"encoding/json"
