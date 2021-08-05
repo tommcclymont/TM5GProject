@@ -3,8 +3,8 @@ package main
 // creates 5G-EIR server and register services
 
 import (
-	"TM5GProject/EIR/equipmentidentitycheck"
-	"TM5GProject/logger"
+	"github.com/tommcclymont/TM5GProject/EIR/equipmentidentitycheck"
+	"github.com/tommcclymont/TM5GProject/logger"
 	"log"
 	"net/http"
 	"os"
