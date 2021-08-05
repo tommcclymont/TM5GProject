@@ -3,10 +3,10 @@ package main
 // creates UDM server and register services
 
 import (
-	"TM5GProject/UDM/subscriberdatamanagement"
-	"TM5GProject/UDM/ueauthenticationudm"
-	"TM5GProject/UDM/uecontextmanagement"
-	"TM5GProject/logger"
+	"github.com/tommcclymont/TM5GProject/UDM/subscriberdatamanagement"
+	"github.com/tommcclymont/TM5GProject/UDM/ueauthenticationudm"
+	"github.com/tommcclymont/TM5GProject/UDM/uecontextmanagement"
+	"github.com/tommcclymont/TM5GProject/logger"
 	"log"
 	"net/http"
 	"os"
