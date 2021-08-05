@@ -3,8 +3,8 @@ package main
 // creates SMF server and register services
 
 import (
-	"TM5GProject/SMF/pdusession"
-	"TM5GProject/logger"
+	"github.com/tommcclymont/TM5GProject/SMF/pdusession"
+	"github.com/tommcclymont/TM5GProject/logger"
 	"log"
 	"net/http"
 	"os"
