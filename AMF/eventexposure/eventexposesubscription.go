@@ -3,7 +3,7 @@ package eventexposure
 // event exposure subscription service
 
 import (
-	"TM5GProject/models"
+	"github.com/tommcclymont/TM5GProject/models"
 	"encoding/json"
 	"log"
 	"net/http"
