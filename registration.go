@@ -3,12 +3,12 @@ package main
 // registration procedure
 
 import (
-	"TM5GProject/AMF/requests"
-	db "TM5GProject/DB"
+	"github.com/tommcclymont/TM5GProject/AMF/requests"
+	db "github.com/tommcclymont/TM5GProject/DB"
 
-	"TM5GProject/OldAMF/oldamfrequests"
-	"TM5GProject/PCF/pcfrequests"
-	"TM5GProject/models"
+	"github.com/tommcclymont/TM5GProject/OldAMF/oldamfrequests"
+	"github.com/tommcclymont/TM5GProject/PCF/pcfrequests"
+	"github.com/tommcclymont/TM5GProject/models"
 	"context"
 	"fmt"
 	"log"
