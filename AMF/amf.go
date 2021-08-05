@@ -3,8 +3,8 @@ package main
 // creates AMF server and register services
 
 import (
-	"TM5GProject/AMF/eventexposure"
-	"TM5GProject/logger"
+	"github.com/tommcclymont/TM5GProject/AMF/eventexposure"
+	"github.com/tommcclymont/TM5GProject/logger"
 	"log"
 	"net/http"
 	"os"
