@@ -31,7 +31,8 @@ go get github.com/tommcclymont/TM5GProject
 
 ## Usage
 
-After navigating to the project directory, run the following command to start the NF servers:
+After navigating to the project directory, run the following commands to start the NF servers.
+Each command must be run in a new terminal.
 
 ```go
 go run AMF/amf.go
