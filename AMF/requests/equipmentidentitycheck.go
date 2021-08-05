@@ -3,7 +3,7 @@ package requests
 // creates equipment status request
 
 import (
-	"TM5GProject/models"
+	"github.com/tommcclymont/TM5GProject/models"
 	"context"
 	"encoding/json"
 	"fmt"
