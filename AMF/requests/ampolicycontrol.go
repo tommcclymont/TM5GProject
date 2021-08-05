@@ -3,7 +3,7 @@ package requests
 // creates policy association data
 
 import (
-	"TM5GProject/models"
+	"github.com/tommcclymont/TM5GProject/models"
 	"bytes"
 	"context"
 	"encoding/json"
