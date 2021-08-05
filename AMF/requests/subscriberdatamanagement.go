@@ -3,7 +3,7 @@ package requests
 // creates subscriber data management requests from AMF to UDM
 
 import (
-	"TM5GProject/models"
+	"github.com/tommcclymont/TM5GProject/models"
 	"context"
 	"encoding/json"
 	"fmt"
