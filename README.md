@@ -19,6 +19,10 @@ Important information about NF requests and responses (such as size, body conten
 
 MongoDB is used for the storage needs of this simulator. During the registration procedure, data is inserted, updated, retrieved, and deleted as necessary.
 
+### TLS
+
+As required in the 5G Core Network, TLS provides end-to-end encryption for all traffic between the NFs.
+
 ## Installation
 
 ```
