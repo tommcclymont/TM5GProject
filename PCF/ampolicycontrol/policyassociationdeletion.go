@@ -3,7 +3,7 @@ package ampolicycontrol
 // policy association deletion service
 
 import (
-	"TM5GProject/models"
+	"github.com/tommcclymont/TM5GProject/models"
 	"log"
 	"net/http"
 
