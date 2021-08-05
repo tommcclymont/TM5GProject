@@ -3,7 +3,7 @@ package requests
 // transfer ue context from old amf to new amf
 
 import (
-	"TM5GProject/models"
+	"github.com/tommcclymont/TM5GProject/models"
 	"bytes"
 	"context"
 	"encoding/json"
