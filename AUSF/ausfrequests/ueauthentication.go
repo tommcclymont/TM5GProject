@@ -3,7 +3,7 @@ package ausfrequests
 // creates authentication info request (AUSF to UDM)
 
 import (
-	"TM5GProject/models"
+	"github.com/tommcclymont/TM5GProject/models"
 	"bytes"
 	"context"
 	"encoding/json"
