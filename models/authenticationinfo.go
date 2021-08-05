@@ -1,7 +1,7 @@
 package models
 
 import (
-	db "TM5GProject/DB"
+	db "github.com/tommcclymont/TM5GProject/DB"
 	"context"
 	"fmt"
 
