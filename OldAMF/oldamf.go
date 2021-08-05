@@ -3,8 +3,8 @@ package main
 // creates old AMF server and register services
 
 import (
-	"TM5GProject/OldAMF/communication"
-	"TM5GProject/logger"
+	"github.com/tommcclymont/TM5GProject/OldAMF/communication"
+	"github.com/tommcclymont/TM5GProject/logger"
 	"log"
 	"net/http"
 	"os"
