@@ -3,7 +3,7 @@ package subscriberdatamanagement
 // ue context in smf data retrieval service
 
 import (
-	"TM5GProject/models"
+	"github.com/tommcclymont/TM5GProject/models"
 	"encoding/json"
 	"log"
 	"net/http"
