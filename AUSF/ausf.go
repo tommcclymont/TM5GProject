@@ -3,8 +3,8 @@ package main
 // creates AUSF server and register services
 
 import (
-	"TM5GProject/AUSF/ueauthentication"
-	"TM5GProject/logger"
+	"github.com/tommcclymont/TM5GProject/AUSF/ueauthentication"
+	"github.com/tommcclymont/TM5GProject/logger"
 	"log"
 	"net/http"
 	"os"
