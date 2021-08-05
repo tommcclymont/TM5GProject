@@ -3,8 +3,8 @@ package ueauthentication
 // ue authentication service
 
 import (
-	"TM5GProject/AUSF/ausfrequests"
-	"TM5GProject/models"
+	"github.com/tommcclymont/TM5GProject/AUSF/ausfrequests"
+	"github.com/tommcclymont/TM5GProject/models"
 	"context"
 	"encoding/json"
 	"log"
