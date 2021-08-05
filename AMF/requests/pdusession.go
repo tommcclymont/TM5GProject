@@ -3,7 +3,7 @@ package requests
 // create sm context for pdu session
 
 import (
-	"TM5GProject/models"
+	"github.com/tommcclymont/TM5GProject/models"
 	"bytes"
 	"context"
 	"encoding/json"
