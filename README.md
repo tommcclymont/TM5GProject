@@ -25,9 +25,11 @@ As required in the 5G Core Network, TLS provides end-to-end encryption for all t
 
 ## Installation
 
+1) In VS Code terminal, run:
 ```
 go get github.com/tommcclymont/TM5GProject
 ```
+2) Navigate to project folder. This should be $GOPATH/src/github.com/tommcclymont/TM5GProject.
 
 ## Usage
 
